@@ -1,0 +1,1 @@
+Running Accessiverse.html will most like result in errors if you try to run it locally, it needs to be running on a server
