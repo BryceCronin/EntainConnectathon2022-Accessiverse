@@ -11,3 +11,7 @@ Needs to be split into an APK file.
 ### Running on a Website
 'HTML5 App' --> 'Accessiverse.html'.
 Cannot be run locally.
+
+## Note
+Please note that online/multiplayer funcitonality is no longer present as it was extremely unreliable due to the short time frame in which I had to develop it.
+I endeavour to rewrite Accessiverse with online connectivity after the 2022 Entain Connectathon has concluded.
